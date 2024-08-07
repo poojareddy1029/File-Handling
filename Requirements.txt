@@ -1,2 +1,2 @@
-Pandas       -   1.5.3
-Streamlit   -    1.37.0
+Pandas     ==   1.5.3
+Streamlit  ==    1.37.0
